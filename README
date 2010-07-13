@@ -1,0 +1,4 @@
+Simple cuda function to calculate the natural logarithm using Taylor series. 
+
+Compile: nvcc logarithm__kernel.cu -lcublas
+
